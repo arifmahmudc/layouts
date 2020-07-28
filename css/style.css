@@ -1,0 +1,19 @@
+.box{
+	min-height: 100px;
+	background-color: tomato;
+	margin-bottom: 5px;
+	font-size: 30px;
+}
+.color{
+	background-color: aqua;
+}
+.color1{
+	background-color: skyblue;
+}
+.color2{
+	background-color: crimson;
+}
+.h_300{
+	height: 300px;
+	border: 2px solid green;
+}
